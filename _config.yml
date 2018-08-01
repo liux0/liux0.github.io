@@ -24,9 +24,8 @@ description: This is the place I share my life with people.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Photo Gallery: "photo"
-    - Tech Posts: "tech"
+  Photo Gallery: "photo"
+  Tech Posts: "tech"
   Author's home: "http://xingbangliu.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
